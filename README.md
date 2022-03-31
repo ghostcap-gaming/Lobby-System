@@ -2,7 +2,7 @@
 A REST Sourcemod lobby system that will queue players before they enter your main server.
 
 # History And Usecase
-This was made with the intention of having one CSGO lobby server where players would first connect to before they would be teleported to your main CSGO server. If the main server was full, the player would join a queue and remain in the lobby until a slot was available. Think of Planetside 2 and their queue system before you enter the actual server. This was supposed to be a work around for the 64 player limit on servers. 
+This was made with the intention of having one CSGO lobby server where players would first connect to before being teleported to your main CSGO server. If the main server was full, the player would join a queue and remain in the lobby until a slot was available. Think of Planetside 2 and their queue system before you enter the actual server. This was supposed to be a work around for the 64 player limit on servers. 
 
 We ran into some problems that we were unable to overcome so we decided to abandon the project.
 
